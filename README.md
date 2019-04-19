@@ -1,4 +1,5 @@
 # Self-Driving-Car
+This project include a self-driving car which uses Tensorflow, convolutional neural networks, and a Raspberry Pi mounted on an RC car to drive through a path traced out on the ground by white paper.
 
 ## Overview
 * This project was created using a Tensorflow LSTM which would recieve images from the client robot and make predicition for which turns it should make
